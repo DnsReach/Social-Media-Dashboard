@@ -1,0 +1,18 @@
+#label-overview{
+    margin-left: 10px;
+    position: relative;
+    top: -10px;
+    font-size: 25px;
+}
+
+#imagem-facebook{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
+.text-views{
+    font-size: 30px;
+    text-align: center;
+}

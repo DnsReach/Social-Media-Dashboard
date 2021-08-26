@@ -1,0 +1,21 @@
+#label{
+    position: relative;
+    top: -10px;
+    right: 10px;
+    font-size: 25px;
+    left:-7px;
+}
+
+#img{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    position: relative;
+    right: 10px;
+}
+
+.text-sub{
+    text-align: center;
+    margin-right: 50px;
+    font-size: 30px;
+}

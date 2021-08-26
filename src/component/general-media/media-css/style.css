@@ -1,0 +1,44 @@
+#grid-section{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(19rem ,1fr));
+}
+
+#menu-grid-1{
+    background-image: linear-gradient(to right, #656464 , #626161 , #616060 , #5B5B5B , #525151 );
+    width: 250px;
+    height: 300px;    
+    display: flex;
+    flex-direction: column;
+    border-top: blue;
+    border-style: groove;
+}
+
+#menu-grid-2{
+        background-image: linear-gradient(to right, #656464 , #626161 , #616060 , #5B5B5B , #525151 );
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    border-top: rgb(69, 69, 156);
+    border-style: groove;
+}
+
+#menu-grid-3{
+    background-image: linear-gradient(to right, #656464 , #626161 , #616060 , #5B5B5B , #525151 );
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    border-top: rgb(247, 39, 73);
+    border-style: groove;
+}
+
+#menu-grid-4{
+    background-image: linear-gradient(to right, #656464 , #626161 , #616060 , #5B5B5B , #525151 );
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    border-top: red;
+    border-style: groove;
+}
